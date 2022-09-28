@@ -1,0 +1,115 @@
+
+    h1{
+        color: blue;
+        text-decoration: underline;
+    }
+
+    p{
+        font-size: 24pt;
+    }
+
+    ol{
+        font-style: italic;
+        font-size: 24pt;
+        
+    }
+    body {background-color: silver;
+    }
+
+    a { color: purple
+
+    }
+
+    #longList{
+        color:green
+    }
+
+    .favList{
+        text-decoration: underline;
+
+    }
+
+    #What{
+        color:red
+    }
+
+    .Why{
+        color:brown
+    }
+
+    h3{font-size: 24pt;
+
+    }
+
+    h4{font-size: 24pt;
+
+    }
+
+    h5{font-size: 24pt;
+
+    }
+
+    #div1{ border-style: solid;
+        
+    }
+    #div2{
+        background-color: rgba(0, 195, 255, 0.753);
+
+    }
+    #div4{
+        background-color: rgba(80, 255, 138, 0.671);
+    }
+    #div3{
+        background-color: rgba(255, 166, 0, 0.795);
+    }
+
+    #div1, #div2, #div3, #div4 {
+        border: solid
+    } 
+
+    form{
+        padding: 15px;
+        background-color: azure;
+        font-style:normal
+        border-style: outset;
+        font-weight: 500px;
+    }
+    input[type=button] {
+        color:black;
+        background-color: gold;
+        padding: 5px;
+    }
+
+    input[type=button]:hover{
+        background: solid;
+        background-color: lime;
+    }
+
+    .fancy {
+        width: 500px;
+        margin: 20px auto;
+        padding: 50px;
+        border-width: 10px;
+    }
+
+    nav {
+        position: sticky;
+        top: 0
+    }
+    
+    .clearfix {
+        overflow: auto;
+    }
+
+
+    
+
+
+
+       
+     
+
+
+
+
+      
